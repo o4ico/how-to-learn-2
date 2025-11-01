@@ -4,5 +4,10 @@
   font-weight: normal;
   line-height: 42px;
   margin: 0 0 0 48px;
-  text-decoration: none
+  text-decoration: none;
+  transition: 400ms;
+}
+
+.khan__buy-link:hover {
+  opacity: 0.7;
 }
